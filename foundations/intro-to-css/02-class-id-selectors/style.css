@@ -1,1 +1,31 @@
-/* Add CSS Styling */
+p {
+    color: #0e0303;
+    background-color:#FAA0A0 ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
+
+#first {
+    color: #0000ffec;
+    background-color: #ffffff;
+    font-size: 36px;
+
+}
+
+#second {
+    color: #000;
+    background-color: rgb(133, 241, 133);
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.third {
+    color: #0e0303;
+    background-color:#FAA0A0 ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+
+
