@@ -1,1 +1,15 @@
-/* Add CSS Styling */
+.left,
+.right {
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.left {
+    background-color: hsl(0, 0%, 0%);
+    color: #fdffff;
+}
+
+.right {
+    background-color: yellow;
+    color: hwb(0 0% 100%);
+}
